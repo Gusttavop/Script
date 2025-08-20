@@ -485,7 +485,7 @@
       "lembrete": false,
       "etiquetaInterna": "Suspeita de LOS",
       "etiquetaExterna": "Suspeita de LOS",
-      "servicoExterno": "Reparo Físico",
+      "servicoExterno": "reparo físico",
       "etiquetaInternaFallback": "Sem acesso",
       "etiquetaExternaFallback": "Sem acesso",
       "mensagem": "relatou a falta de acesso e a presença de um LED vermelho piscando. Ao questionar a possibilidade de incidentes ou remoção de equipamentos, o cliente negou qualquer ocorrência. Após constatar a normalidade da rota, foi gerada uma Ordem de Serviço (O.S.) para efetuar uma inspeção direta no local. Agendado de acordo com a disponibilidade do cliente."
@@ -611,7 +611,7 @@
       "lembrete": false,
       "etiquetaInterna": "Pon apagada - FTTH",
       "etiquetaExterna": "Pon apagada",
-      "servicoExterno": "Reparo Rápido",
+      "servicoExterno": "reparo rápido",
       "etiquetaInternaFallback": "Sem acesso",
       "etiquetaExternaFallback": "Sem acesso",
       "mensagem": "entrou em contato relatando uma interrupção em sua conexão com a internet. Após questionar sobre a situação do LED PON, o cliente confirmou que ele está apagado. Ao constatar que a rota está operante, seguimos os procedimentos padrões conforme documentados nos registros de eventos. Adicionalmente, conectamos o equipamento em outra tomada de energia e verificamos o botão 'ON/OFF'. No entanto, o cliente informou que o acesso continua interrompido. Diante dessa situação, foi gerada uma Ordem de Serviço (O.S.) para efetuar uma inspeção direta no local e resolver o problema. Agendado de acordo com a disponibilidade do cliente."
